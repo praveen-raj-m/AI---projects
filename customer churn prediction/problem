@@ -1,0 +1,6 @@
+This project is about customer churn prediction.
+Churn quantifies the number of customers unsubscribing/canceling the service.In this project, we would like to build a model which can help us identify the intention of customers to leave us in future.
+
+To solve the problem of predicting customer churn, we will analyze the past data to study the characteristics/behaviour of the customers before they churned.
+
+The dataset we will be using is Telcom Customer Churn Dataset from kaggle (https://www.kaggle.com/blastchar/telco-customer-churn)
