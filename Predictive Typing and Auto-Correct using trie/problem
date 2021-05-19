@@ -1,8 +1,8 @@
 Problem
 
-Write a python program to extract the contents (excluding any tags) from two websites
-https://en.wikipedia.org/wiki/Artificial_intelligence 
-https://en.wikipedia.org/wiki/Machine_learning
+Write a python program to extract the contents (excluding any tags) from two websites:
+1. https://en.wikipedia.org/wiki/Artificial_intelligence 
+2. https://en.wikipedia.org/wiki/Machine_learning
 
 Save the content in two separate files. Construct a trie based on the content retrieved in using HashMap / B-Tree / Dictionary. 
 Write a program to show the implementation of Predictive Typing and Auto-Correct using the trie prepared.
