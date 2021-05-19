@@ -14,4 +14,4 @@ iteration. Count and display the total number of iterations required to meet the
 stopping criteria. (stopping criteria:- ε = 0.05 for both hub and authority)
 
 4. Write a python program to calculate the maximum flow in the following graph using
-Ford-Fulkerson Max flow algorithm.
+Ford-Fulkerson Max flow algorithm and display the graphs.
