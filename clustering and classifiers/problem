@@ -1,0 +1,19 @@
+Use the following Clustering Algorithms
+
+1. Hierarchical Clustering (Use Euclidian Distance Function)
+2. BIRCH Clustering
+
+dataset:plants.zip
+
+
+1. Naïve Bayes
+2. Gradient Boosting
+
+dataset used:DelhiWeather.csv 
+
+Compare the performance of classifiers using the following metrics:
+
+a) F - Score
+b) ROC & AUC Curve
+c) R2
+d) Accuracy
