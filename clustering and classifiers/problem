@@ -3,6 +3,7 @@ Use the following Clustering Algorithms
 1. Hierarchical Clustering (Use Euclidian Distance Function)
 2. BIRCH Clustering
 
+
 dataset:plants.zip
 
 
@@ -10,6 +11,7 @@ dataset:plants.zip
 2. Gradient Boosting
 
 dataset used:DelhiWeather.csv 
+
 
 Compare the performance of classifiers using the following metrics:
 
