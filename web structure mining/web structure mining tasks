@@ -4,9 +4,11 @@
 prestige using a graph dataset given in the following link.
 http://snap.stanford.edu/data/wiki-Vote.txt.gz
 
+
 2.write a python program to show the implementation Page Rank algorithm. Update and display the page rank for all the nodes after each
 iteration. Count and display the total number of iterations required to meet the
 stopping criteria. (stopping criteria:- ε = 0.05, damping factor = 0.9)
+
 
 3.Write a python program to show the implementation HITS algorithm for the above
 graph and display the authority as well as hub score for all the nodes after each
