@@ -4,6 +4,7 @@ Abstract: Data has been extracted from the USDA plants database. It
 contains all plants (species and genera) in the database and the states 
 of USA and Canada where they occur.
 
+
 -----------------------------------------------------------------------
 
 Data Set Characteristics: Multivariate
@@ -22,7 +23,7 @@ Source:
 Original source:
 USDA plants database: http://plants.usda.gov/index.html
 
-Extracted and encoded by W. H‰m‰l‰inen, Department of Computer Science, 
+Extracted and encoded by W. H√§m√§l√§inen, Department of Computer Science, 
 University of Helsinki, Finland. whamalai '@' cs.helsinki.fi
 
 -----------------------------------------------------------------------
@@ -43,7 +44,7 @@ abbreviations.
 
 Relevant Papers:
 
-H‰m‰l‰inen, W. and Nyk‰nen, M.: Efficient discovery of statistically 
+H√§m√§l√§inen, W. and Nyk√§nen, M.: Efficient discovery of statistically 
 significant association rules. Proceedings of the 8th IEEE International 
 Conference on Data Mining (ICDM 2008), pp. 203-212. IEEE Computer 
 Society 2008. 
