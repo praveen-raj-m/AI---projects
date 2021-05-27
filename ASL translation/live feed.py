@@ -11,6 +11,7 @@ def prepare(filepath):
     new_array = cv2.resize(filepath, (IMG_SIZE, IMG_SIZE))  # resize image to match model's expected sizing
     return new_array.reshape(-1, IMG_SIZE, IMG_SIZE, 1) 
 
+
 model = tf.keras.models.load_model("file_path_to_downloaded_model")
 
 cap = cv2.VideoCapture(1)#use 0 if using inbuilt webcam
