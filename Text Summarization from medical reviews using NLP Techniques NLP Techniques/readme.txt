@@ -18,4 +18,4 @@ for composing the summary, we select the most representative sentence from numer
 algorithms. This project aims to use text summarization and feature extraction to remove parts of
 the feedback that are not needed making it easier for the user to make a well-informed choice.
 
-The dataset drugsComTest_raw.csv is available in this repository
+link for the dataset : https://github.com/sujitkumar205/NLPTextSummarization/blob/main/drugsComTest_raw.csv
