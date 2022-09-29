@@ -1,4 +1,4 @@
-#Optimization of hyper parameters of Neural Network
+# Optimization of hyper parameters of Neural Network
 
 Neural Nets are one of the fastest growing aspects of AI with a wide and versatile
 range of applications. For these models to be used in various applications it is
